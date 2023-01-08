@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183662140764",
+    "project_id": "maps-e2a6c",
+    "storage_bucket": "maps-e2a6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183662140764:android:5ad908f01656da5140b599",
+        "android_client_info": {
+          "package_name": "cab.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183662140764-rn4ju63qa56utn5q8fn4k0s8ve2sgj0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMtcjwJXHMIT_HxdNgtmdc-DVs8Myg8_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183662140764-rn4ju63qa56utn5q8fn4k0s8ve2sgj0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
